@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Happy Movie</string>
+
+
+    <!--   бар иконок -->
+    <string name="search_icon">иконка поиска</string>
+    <string name="layout_icon">иконка</string>
+
+
+    <!-- ТВ-шоу -->
+    <string name="discover_tv">Откройте для себя телешоу</string>
+    <string name="onAir_tv">ТВ-шоу в эфире</string>
+    <string name="popular_tv">Популярные ТВ-шоу</string>
+    <string name="topRated_tv">Лучшие шоу</string>
+
+
+    <!-- Фильмы -->
+    <string name="discover_movies">Что-то новое…</string>
+    <string name="onAir_movies">Сейчас в эфире</string>
+    <string name="popular_movies">Популярные</string>
+    <string name="topRated_movies">Подборка лучших</string>
+
+
+    <!-- Подменю -->
+    <string name="one_column_label">в одну колонку</string>
+    <string name="two_column_label">в две колонки</string>
+
+    <string name="backdrop_desc">Backdrop</string>
+    <string name="overlay">Overlay</string>
+    <string name="poster_desc">Poster</string>
+    <string name="vote_count_label">Оценили:</string>
+    <string name="vote_average_label">Средний рейтинг:</string>
+    <string name="original_lang_label">Оригинальный язык:</string>
+    <string name="vote_count_star">Звёзд</string>
+
+    <!-- Поиск-->
+    <string name="search_view">Вид поиска</string>
+    <string name="search_view_hint">Введите название фильма/ сериала/ шоу</string>
+
+
+    <!-- Поисковой фильтр -->
+    <string name="filter_movies">Фильмы</string>
+    <string name="filter_tv">ТВ-шоу</string>
+
+    <!--  настройка плейсхолдера -->
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="previous_button">Назад</string>
+    <string name="next_button">Дальше</string>
+    <string name="movies_title">Фильмы</string>
+    <string name="tv_title">ТВ</string>
+</resources>
